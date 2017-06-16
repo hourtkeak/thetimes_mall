@@ -2084,7 +2084,7 @@ var Header = function (_React$Component) {
                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                   "a",
                   { href: "#" },
-                  "Home"
+                  "Homepage"
                 )
               ),
               __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
@@ -2093,7 +2093,7 @@ var Header = function (_React$Component) {
                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                   "a",
                   { href: "#" },
-                  "About"
+                  "About us"
                 )
               ),
               __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
